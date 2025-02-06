@@ -22,3 +22,22 @@ video {
   display: block;
   max-width: 100%;
 }
+
+body {
+  color: var(--dark-blue, #005564);
+  font-family: "Francois One";
+}
+
+h1,
+h2 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 35px;
+}
+
+p {
+  font-family: "Nunito Sans";
+  font-size: 18px;
+}

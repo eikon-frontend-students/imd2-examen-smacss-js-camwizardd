@@ -1,0 +1,16 @@
+.advantage {
+  margin-top: 20px;
+  h3 {
+    font-family: "Nunito Sans";
+    font-size: 18px;
+  }
+}
+
+.advantage-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-top: 20px;
+}
