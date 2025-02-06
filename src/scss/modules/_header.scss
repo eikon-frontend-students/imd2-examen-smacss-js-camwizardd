@@ -2,4 +2,11 @@
   color: var(--white, #fff);
   display: flex;
   justify-content: center;
+  transition: color 0.3s;
+}
+
+.l-header-yellow.is-active {
+  .header-title {
+    color: var(--dark-blue, #005564);
+  }
 }
